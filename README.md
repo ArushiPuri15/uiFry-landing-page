@@ -41,7 +41,7 @@ The design prioritizes clarity and user experience within the time constraints. 
 
  Figma Design Reference
 
-The design for this landing page was inspired by the following Figma prototype: [UIFry Figma Design][(https://www.figma.com/proto/xyz/UIFry-App-Design](https://www.figma.com/design/dvc71PcUEYRKrtnZOapRtI/App-Landing-Page-Finance-Bank-Money-(Community)?m=dev&node-id=0-1&t=uyErxTIHgm8nS2dC-1))
+The design for this landing page was inspired by the following Figma prototype: [UIFry Figma Design][[(https://www.figma.com/proto/xyz/UIFry-App-Design](https://www.figma.com/design/dvc71PcUEYRKrtnZOapRtI/App-Landing-Page-Finance-Bank-Money-(Community)?m=dev&node-id=0-1&t=uyErxTIHgm8nS2dC-1)]
 
 Note
 
